@@ -1,6 +1,6 @@
 name: Grid Test Site 1
 favicon: null
-layout_spectrum: 0.07595887617208064
+layout_spectrum: 0.38562
 typography_spectrum: 0.6581480093300343
 title: Grid Test Site 1
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.3227807115763426
+    - '#070302'
+    - '#8c897a'
+    - '#00c5ff'
+    - '#d8dfe5'
+    - '#005cff'
+  brandStrength: 0.375
   lightness: 0.7091090970207006
   saturation: 0.278014930896461
   rhythmicContrast: 0.5328892776742578
