@@ -4,7 +4,7 @@
         <description><![CDATA[Grid Test ]]></description>
         <link>https://thegrid.ai/grid-test-site-1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 01:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 22:11:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid-test-site-1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -28,11 +28,11 @@
             <pubDate>Thu, 17 Mar 2016 00:50:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e192223-313e-4b0f-9667-5620ccf69fc0.jpg">]]></description>
+            <title><![CDATA[TITLE OF PICTURES POST]]></title>
+            <description><![CDATA[<article><h1>TITLE OF PICTURES POST</h1><p>DESC  OF PICTURES POST</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e192223-313e-4b0f-9667-5620ccf69fc0.jpg"></article>]]></description>
             <link>https://thegrid.ai/grid-test-site-1/5ba81c5b-030c-4e4a-8a2a-0219924fb2d9/index.html</link>
             <guid isPermaLink="false">5ba81c5b-030c-4e4a-8a2a-0219924fb2d9</guid>
-            <pubDate>Thu, 17 Mar 2016 00:02:18 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 22:11:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
