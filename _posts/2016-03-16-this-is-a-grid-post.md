@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: This is a grid post
-datePublished: '2016-03-17T00:50:16.214Z'
-dateModified: '2016-03-17T00:49:44.816Z'
-title: ''
+description: "Broad Reach: \_The Wind Over The Quarter"
+datePublished: '2016-03-19T22:11:59.609Z'
+dateModified: '2016-03-19T22:09:35.259Z'
+title: TITLE OF LOGO AND WATER PAGE
 author: []
 sourcePath: _posts/2016-03-16-this-is-a-grid-post.md
 published: true
